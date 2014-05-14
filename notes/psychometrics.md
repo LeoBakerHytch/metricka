@@ -1,7 +1,7 @@
 Psychometrics
 =============
 
-Test logic
+Test structure
 ----------
 
 - Contingent questions
@@ -10,13 +10,16 @@ Test logic
 
 - Contingent instructions
     - Should be able to give an instruction that refers directly to a previous
-      response (for example, ‘You responded X to question 1; please describe how
-      this affects you’)
+      response (for example, “You responded ‘X’ to question 10; please describe how
+      this affects you”)
 
 - Completion
     - Should indicate progress to test-taker
     - Should enforce completion of every question before submission is allowed
         - May still be useful to record partially-completed tests
+
+- Question groups
+    - Should be able to group test items that are scored on a common scale
 
 Response types
 --------------
