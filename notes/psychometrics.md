@@ -29,7 +29,7 @@ Response types
 - Number (optionally with unit)
 - Mutually-exclusive options
     - Response selected with a radio button
-    - Special case: yes / no may be represented with a checkbox
+    - Special case: binary options (yes / no) may be represented with a checkbox
 - Rank for each of a number of items
     - Typically must give a total order
     - Ordering may be over a subset of the items presented
