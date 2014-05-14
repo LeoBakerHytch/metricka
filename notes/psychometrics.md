@@ -17,6 +17,7 @@ Test structure
     - Should indicate progress to test-taker
     - Should enforce completion of every question before submission is allowed
         - May still be useful to record partially-completed tests
+        - Should at least allow test-taker to close, then resume their session
 
 - Question groups
     - Should be able to group test items that are scored on a common scale
